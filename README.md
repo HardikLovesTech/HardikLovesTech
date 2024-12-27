@@ -50,7 +50,7 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats" title="Go To Source">
-        <img src="https://streak-stats.demolab.com?user=HardikLovesTech" alt="GitHub Streak" width=390 align="left"/>
+        <img src="https://streak-stats.demolab.com?user=HardikLovesTech&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" width=390 align="left"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HardikLovesTech&show_icons=true&theme=react&border_color=61dafb&hide_border=true" align="right" width=390 />
