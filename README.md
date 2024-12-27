@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HardikLovesTech.HardikLovesTech">
 <h1 align="center">
   <a href="https://git.io/typing-svg" align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B100&width=435&lines=Hello+Guys%F0%9F%91%8B;This+is+Hardik+Runwal%F0%9F%92%BB;Welcome+to+my+profile%F0%9F%9A%80;Nice+to+meet+you%F0%9F%A4%9D&center=true&size=30" alt="Typing SVG" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Guys%F0%9F%91%8B;This+is+Hardik+Runwal%F0%9F%92%BB;Welcome+to+my+profile%F0%9F%9A%80;Nice+to+meet+you%F0%9F%A4%9D&center=true&size=30" alt="Typing SVG" />
   </a>
 </h1>
 
