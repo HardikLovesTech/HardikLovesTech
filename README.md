@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HardikLovesTech.HardikLovesTech">
-
-<a href="https://git.io/typing-svg" align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B100&width=435&lines=Hello+Guys%F0%9F%91%8B;This+is+Hardik+Runwal%F0%9F%92%BB;Welcome+to+my+profile%F0%9F%9A%80;Nice+to+meet+you%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg" align="center">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B100&width=435&lines=Hello+Guys%F0%9F%91%8B;This+is+Hardik+Runwal%F0%9F%92%BB;Welcome+to+my+profile%F0%9F%9A%80;Nice+to+meet+you%F0%9F%A4%9D&center=true&size=30" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -50,16 +50,16 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats" title="Go To Source">
-        <img src="https://streak-stats.demolab.com?user=HardikLovesTech" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=HardikLovesTech" alt="GitHub Streak" width=390 align="left"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HardikLovesTech&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HardikLovesTech&show_icons=true&theme=react&border_color=61dafb&hide_border=true" align="right" width=390 />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikLovesTech&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikLovesTech&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height=200 align="center"/>
     </a>
   </div>
   <br>
