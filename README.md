@@ -70,6 +70,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/HardikLovesTech/IITB-RAG" title="IITB-RAG"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HardikLovesTech&repo=IITB-RAG&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HardikLovesTech/DSA" title="IITB-RAG"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HardikLovesTech&repo=DSA&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
