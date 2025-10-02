@@ -1,94 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HardikLovesTech.HardikLovesTech">
-<h1 align="center">
-  <a href="https://git.io/typing-svg" align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Guys%F0%9F%91%8B;This+is+Hardik+Runwal%F0%9F%92%BB;Welcome+to+my+profile%F0%9F%9A%80;Nice+to+meet+you%F0%9F%A4%9D&center=true&size=30" alt="Typing SVG" />
-  </a>
-</h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hardikrunwal/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/hardikrunwal123" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/apka.apna.hardik/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Hardik Runwal, Mathematics and Computing Student from India
-  <br>
-  <br>
-  🔬 I'm currently pursuing for my B.tech from Manipal Institute Of Technology
-  <br>
-  🎓 I completed my schooling from Nirmala Convent High School
-  <br>
-  💻 A passionate coder driven by curiosity 🤔 and a love for solving complex problems 🚀
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/HardikLovesTech/HardikLovesTech/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: hardikrunwal123@gmail.com">Gmail</a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apka.apna.hardik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikrunwal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hardikrunwal123) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hardik-Runwal-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HardikRunwal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hardik-runwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardikrunwal123@gmail.com) 
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-</p>
-<hr>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HardikLovesTech&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HardikLovesTech&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikLovesTech&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://git.io/streak-stats" title="Go To Source">
-        <img src="https://streak-stats.demolab.com?user=HardikLovesTech&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" width=390 align="left"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HardikLovesTech&show_icons=true&theme=react&border_color=61dafb&hide_border=true" align="right" width=390 />
-    </a>
-  </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikLovesTech&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height=200 align="center"/>
-    </a>
-  </div>
-  <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HardikLovesTech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikLovesTech&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<hr>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HardikLovesTech&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/HardikLovesTech/IITB-RAG" title="IITB-RAG"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HardikLovesTech&repo=IITB-RAG&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/HardikLovesTech/DSA" title="IITB-RAG"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HardikLovesTech&repo=DSA&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/HardikLovesTech?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+---
+[![](https://visitcount.itsvg.in/api?id=HardikLovesTech&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/HardikRunwal) 
 
-<!--
-**HardikLovesTech/HardikLovesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
